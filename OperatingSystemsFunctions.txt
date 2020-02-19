@@ -1,2 +1,2 @@
 One function of an operating system is having a UI. a UI (user interface) controls how data is shown and entered. a GUI (graphical user interface) uses visual images to display menus and other parts of the UI.
-Another function of an operating system is handling memory. When handling memory, the OS is also in charge of optimizing internal memory. The OS can use physical or virtual memory.
+Another function of an operating system is handling memory. When handling memory, the OS is also in charge of optimizing internal memory. The OS can use physical or virtual memory. 
