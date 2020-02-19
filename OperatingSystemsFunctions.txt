@@ -1,1 +1,1 @@
-
+One function of an operating system is having a UI. a UI (user interface) controls how data is shown and entered. a GUI (graphical user interface) uses visual images to display menus and other parts of the UI.
